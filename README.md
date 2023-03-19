@@ -11,10 +11,13 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 5: 
 ### PROGRAM:
 ```
+#Program to find the distance between two points.
+#Developed by: Jayasri Dodda
+#RegisterNumber: 212222240028
 import math
-l2=[10,6]
-l1=[4,2]
-distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+list1=[4,2]
+list2=[10,6]
+distance=math.sqrt(((list2[0]-list1[0])**2+((list2[1]-list1[1])**2)))
 print("{:.2f}".format(distance))
 
 ```
