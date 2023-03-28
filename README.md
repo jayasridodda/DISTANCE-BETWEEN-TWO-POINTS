@@ -13,7 +13,6 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 Print the result.
 ### Step 5: 
 End the program.
-
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
