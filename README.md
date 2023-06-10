@@ -8,7 +8,7 @@ Import numpy module to use built-in functions
 ### Step 2: 
 Get lists from the linear equations and assign it to np.array
 ### Step 3: 
-Substitute the values in the distance formula  ![Uploading PYY.jpg…]()
+Substitute the values in the distance formula ![PYY](https://github.com/jayasridodda/DISTANCE-BETWEEN-TWO-POINTS/assets/123259278/e805f3d4-f813-4716-8b79-db9766d279d9)
 ### Step 4: 
 Print the result.
 ### Step 5: 
@@ -25,8 +25,6 @@ distance=math.sqrt(((list2[0]-list1[0])**2+((list2[1]-list1[1])**2)))
 print("{:.2f}".format(distance))
 
 ```
-  
-
 # OUTPUT:
 
 ![exp 1c](https://user-images.githubusercontent.com/123259278/226190904-23a06902-37f7-4d56-8703-e2b1db18e913.png)
