@@ -32,4 +32,4 @@ print("{:.2f}".format(distance))
 ![exp 1c](https://user-images.githubusercontent.com/123259278/226190904-23a06902-37f7-4d56-8703-e2b1db18e913.png)
 
 ### RESULT:
-Thus the distance between two points executed succesfully
+Thus the program to find the distance between two points is written and verified using python programming.
