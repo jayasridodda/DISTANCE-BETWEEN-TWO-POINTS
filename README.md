@@ -8,7 +8,7 @@ Import numpy module to use built-in functions
 ### Step 2: 
 Get lists from the linear equations and assign it to np.array
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![Uploading PYY.jpg…]()
 ### Step 4: 
 Print the result.
 ### Step 5: 
